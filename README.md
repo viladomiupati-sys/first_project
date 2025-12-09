@@ -27,11 +27,11 @@ Individuals with high stress, high BMI, low sleep duration, and poor sleep quali
 **H0:** Sleep disorder presence is independent of these factors.
 
 #### Secondary Hypotheses
-- **H1a:** Obesity increases likelihood of sleep apnea. (Chi-Square)
-- **H1b:** Higher stress correlates with insomnia. (t-Test / ANOVA)
-- **H1c:** Sleeping <6 hours increases disorder risk. (Logistic Regression / Chi-Square)
-- **H1d:** Low physical activity (<40 min/day) increases disorder prevalence. (t-Test / ANOVA)
-- **H1e:** High heart rate / BP increases apnea risk. (Regression)
+- **H1a:** Obesity increases likelihood of sleep apnea. 
+- **H1b:** Higher stress correlates with insomnia. 
+- **H1c:** Sleeping <6 hours increases disorder risk.
+- **H1d:** Low physical activity (<40 min/day) increases disorder prevalence. 
+- **H1e:** High heart rate / BP increases apnea risk. 
 
 
 ### 🧹 Data Cleaning Summary

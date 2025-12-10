@@ -55,10 +55,10 @@ Statistical tests and Logistic Regression models were used to validate the hypot
 
 #### H1: Lifestyle and Physiological Factors
 
-**H1a:** Obesity & Apnea ✅ Validated --> Apnea prevalence in the "Obese" group (57.14%) was significantly higher than in the "Normal" group (9.59%).
-**H1b:** Stress & Insomnia✅ Validated --> Patients with Insomnia reported the highest average stress level (7.21).
-**H1d:** Low Activity (<40 min)❌ Not Validated --> No significant difference in disorder prevalence was found between the low activity group (42%) and the adequate activity group (45%).
-**H1e:** High HR / BP & Apnea ✅ Validated --> Elevated blood pressure and heart rate are significant indicators for Sleep Apnea risk.
+- **H1a:** Obesity & Apnea ✅ Validated --> Apnea prevalence in the "Obese" group (57.14%) was significantly higher than in the "Normal" group (9.59%).
+- **H1b:** Stress & Insomnia✅ Validated --> Patients with Insomnia reported the highest average stress level (7.21).
+- **H1d:** Low Activity (<40 min)❌ Not Validated --> No significant difference in disorder prevalence was found between the low activity group (42%) and the adequate activity group (45%).
+- **H1e:** High HR / BP & Apnea ✅ Validated --> Elevated blood pressure and heart rate are significant indicators for Sleep Apnea risk.
 
 #### H2: Age Effects
 Age was established to have a moderate positive association with sleep disorders.

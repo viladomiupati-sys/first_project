@@ -33,6 +33,14 @@ Individuals with high stress, high BMI, low sleep duration, and poor sleep quali
 - **H1d:** Low physical activity (<40 min/day) increases disorder prevalence. 
 - **H1e:** High heart rate / BP increases apnea risk. 
 
+### Primary Hypothesis (H2)
+Age and Sleep Disorder Relationship¶
+- **H2a:** Older individuals are more likely to develop a sleep disorder-
+- **H2b:** Age is more strongly associated with sleep apnea than with insomnia
+- **H2c:** Younger individuals show a higher proportion of insomnia cases  
+
+### Primary Hypothesis (H3)
+Multiple risk factors demonstrate cumulative effects on sleep disorder likelihood, enabling the creation of a practical risk stratification model for targeted healthcare delivery.
 
 ### 🧹 Data Cleaning Summary
 - Checked for missing values, incorrect data types, and duplicates.
